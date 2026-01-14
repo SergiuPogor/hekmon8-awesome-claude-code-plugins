@@ -147,6 +147,7 @@ Claude Code plugins are custom collections that can include:
 
 - **doc-generator** - Automatic documentation creation
 - **api-docs** - API documentation with OpenAPI/Swagger
+- **[claude-history](https://github.com/ahostbr/claude-history)** - Automatic transcript backup, organized by date
 - **readme-builder** - Professional README generation
 
 ### Project Management
