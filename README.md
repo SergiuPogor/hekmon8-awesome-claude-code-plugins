@@ -123,6 +123,11 @@ Claude Code plugins are custom collections that can include:
   - Domain-specific development agents
   - Workflow automation
 
+- **[l3a0's Claude Code Plugins](https://github.com/l3a0/claude-plugins)** - `l3a0/claude-plugins`
+  - kindle-highlights: verbatim, location-cited Kindle highlight export
+  - Recovers the highlights Amazon's export limit truncates or hides
+  - macOS only; MIT; proven on four real books (2,432 highlights, 815 export-blocked, all recovered)
+
 ## Featured Plugins
 
 ### Development Tools
