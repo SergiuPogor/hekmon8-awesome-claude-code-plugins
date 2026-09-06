@@ -16,6 +16,7 @@
   - [Testing & Quality](#testing--quality)
   - [Documentation](#documentation)
   - [Project Management](#project-management)
+  - [Marketing & Growth](#marketing--growth)
   - [Security](#security)
 - [Creating Plugins](#creating-plugins)
 - [Examples](#examples)
@@ -160,6 +161,12 @@ Claude Code plugins are custom collections that can include:
 - **task-tracker** - Issue and task management integration
 - **sprint-planner** - Agile sprint planning assistance
 - **standup-helper** - Daily standup report generation
+
+### Marketing & Growth
+
+- **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
+  - Skills: [seo/](https://github.com/nowork-studio/NotFair/tree/main/seo), [google-ads/](https://github.com/nowork-studio/NotFair/tree/main/google-ads), [meta-ads/](https://github.com/nowork-studio/NotFair/tree/main/meta-ads)
+  - Author: NotFair / nowork-studio
 
 ### Security
 
