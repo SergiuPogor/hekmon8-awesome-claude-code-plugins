@@ -125,6 +125,10 @@ Claude Code plugins are custom collections that can include:
 
 ## Featured Plugins
 
+### Marketing Growth
+
+- **toprank** - Open-source Claude Code plugin and skill set for SEO, Google Ads, content writing, and CMS optimization workflows
+
 ### Development Tools
 
 - **feature-dev** (Anthropic) - Complete feature development workflow
